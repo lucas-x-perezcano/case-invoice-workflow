@@ -60,9 +60,17 @@ A processing service reads PDF text, asks a language model for structured fields
 
 For a deeper look at the implementation and its limitations:
 
-- [System Architecture](docs/architecture.md)
-- [Design Decisions](docs/design-decisions.md)
-- [Validation and Current Status](docs/validation.md)
+**English**
+
+- [System Architecture](docs/english/architecture.md)
+- [Design Decisions](docs/english/design-decisions.md)
+- [Validation and Current Status](docs/english/validation.md)
+
+**Español**
+
+- [Arquitectura del sistema](docs/spanish/architecture.md)
+- [Decisiones de diseño](docs/spanish/design-decisions.md)
+- [Validación y estado actual](docs/spanish/validation.md)
 
 ## Validation
 
