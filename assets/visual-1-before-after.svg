@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1220" viewBox="0 0 1200 1220" role="img" aria-label="Before and after invoice workflow">
+<title>Before and after invoice workflow</title>
+<rect width="1200" height="1220" fill="#F7F9FA"/>
+<rect x="0" y="0" width="1200" height="12" rx="0" fill="#087E7B" stroke="none" stroke-width="1"/>
+<text x="56" y="69" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="start">Before and after</text>
+<text x="56" y="110" fill="#536A79" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" text-anchor="start">From a manual sequence to a repeatable flow with visible exceptions</text>
+<rect x="1088" y="38" width="58" height="58" rx="16" fill="#E8F5F2" stroke="none" stroke-width="1"/>
+<text x="1117" y="75" fill="#087E7B" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="middle">01</text>
+<rect x="55" y="155" width="520" height="770" rx="18" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="174" width="484" height="58" rx="12" fill="#ECF3F7" stroke="none" stroke-width="1"/>
+<text x="97" y="211" fill="#315F78" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="start">BEFORE · MANUAL</text>
+<rect x="625" y="155" width="520" height="770" rx="18" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="643" y="174" width="484" height="58" rx="12" fill="#E8F5F2" stroke="none" stroke-width="1"/>
+<text x="667" y="211" fill="#087E7B" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="start">AFTER · WORKFLOW</text>
+<rect x="73" y="248" width="484" height="66" rx="12" fill="#ECF3F7" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="248" width="6" height="66" rx="3" fill="#315F78" stroke="none" stroke-width="1"/>
+<circle cx="101" cy="281" r="17" fill="#315F78"/>
+<text x="101" y="288" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">1</text>
+<text x="132" y="289" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Incoming email</text>
+<line x1="315" y1="315" x2="315" y2="329" stroke="#315F78" stroke-width="2" stroke-linecap="round"/>
+<path d="M 309 323 L 315 331 L 321 323" fill="none" stroke="#315F78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="339" width="484" height="66" rx="12" fill="#ECF3F7" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="339" width="6" height="66" rx="3" fill="#315F78" stroke="none" stroke-width="1"/>
+<circle cx="101" cy="372" r="17" fill="#315F78"/>
+<text x="101" y="379" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">2</text>
+<text x="132" y="368" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" text-anchor="start">Download and interpret</text>
+<text x="132" y="393" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" text-anchor="start">invoice</text>
+<line x1="315" y1="406" x2="315" y2="420" stroke="#315F78" stroke-width="2" stroke-linecap="round"/>
+<path d="M 309 414 L 315 422 L 321 414" fill="none" stroke="#315F78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="430" width="484" height="66" rx="12" fill="#ECF3F7" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="430" width="6" height="66" rx="3" fill="#315F78" stroke="none" stroke-width="1"/>
+<circle cx="101" cy="463" r="17" fill="#315F78"/>
+<text x="101" y="470" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">3</text>
+<text x="132" y="471" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Organize fields</text>
+<line x1="315" y1="497" x2="315" y2="511" stroke="#315F78" stroke-width="2" stroke-linecap="round"/>
+<path d="M 309 505 L 315 513 L 321 505" fill="none" stroke="#315F78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="521" width="484" height="66" rx="12" fill="#ECF3F7" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="521" width="6" height="66" rx="3" fill="#315F78" stroke="none" stroke-width="1"/>
+<circle cx="101" cy="554" r="17" fill="#315F78"/>
+<text x="101" y="561" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">4</text>
+<text x="132" y="562" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Check product catalog</text>
+<line x1="315" y1="588" x2="315" y2="602" stroke="#315F78" stroke-width="2" stroke-linecap="round"/>
+<path d="M 309 596 L 315 604 L 321 596" fill="none" stroke="#315F78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="612" width="484" height="66" rx="12" fill="#ECF3F7" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="612" width="6" height="66" rx="3" fill="#315F78" stroke="none" stroke-width="1"/>
+<circle cx="101" cy="645" r="17" fill="#315F78"/>
+<text x="101" y="652" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">5</text>
+<text x="132" y="641" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" text-anchor="start">Prepare inspection</text>
+<text x="132" y="666" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" text-anchor="start">document</text>
+<line x1="315" y1="679" x2="315" y2="693" stroke="#315F78" stroke-width="2" stroke-linecap="round"/>
+<path d="M 309 687 L 315 695 L 321 687" fill="none" stroke="#315F78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="703" width="484" height="66" rx="12" fill="#ECF3F7" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="703" width="6" height="66" rx="3" fill="#315F78" stroke="none" stroke-width="1"/>
+<circle cx="101" cy="736" r="17" fill="#315F78"/>
+<text x="101" y="743" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">6</text>
+<text x="132" y="744" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Store documents</text>
+<line x1="315" y1="770" x2="315" y2="784" stroke="#315F78" stroke-width="2" stroke-linecap="round"/>
+<path d="M 309 778 L 315 786 L 321 778" fill="none" stroke="#315F78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="794" width="484" height="66" rx="12" fill="#ECF3F7" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="73" y="794" width="6" height="66" rx="3" fill="#315F78" stroke="none" stroke-width="1"/>
+<circle cx="101" cy="827" r="17" fill="#315F78"/>
+<text x="101" y="834" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">7</text>
+<text x="132" y="835" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Reply or follow up</text>
+<rect x="643" y="248" width="484" height="66" rx="12" fill="#E8F5F2" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="643" y="248" width="6" height="66" rx="3" fill="#087E7B" stroke="none" stroke-width="1"/>
+<circle cx="671" cy="281" r="17" fill="#087E7B"/>
+<text x="671" y="288" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">1</text>
+<text x="702" y="289" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Eligible unread email</text>
+<line x1="885" y1="315" x2="885" y2="329" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 879 323 L 885 331 L 891 323" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="643" y="339" width="484" height="66" rx="12" fill="#E8F5F2" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="643" y="339" width="6" height="66" rx="3" fill="#087E7B" stroke="none" stroke-width="1"/>
+<circle cx="671" cy="372" r="17" fill="#087E7B"/>
+<text x="671" y="379" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">2</text>
+<text x="702" y="380" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Process PDF</text>
+<line x1="885" y1="406" x2="885" y2="420" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 879 414 L 885 422 L 891 414" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="643" y="430" width="484" height="66" rx="12" fill="#E8F5F2" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="643" y="430" width="6" height="66" rx="3" fill="#087E7B" stroke="none" stroke-width="1"/>
+<circle cx="671" cy="463" r="17" fill="#087E7B"/>
+<text x="671" y="470" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">3</text>
+<text x="702" y="459" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" text-anchor="start">Catalog and arithmetic</text>
+<text x="702" y="484" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" text-anchor="start">checks</text>
+<line x1="885" y1="497" x2="885" y2="511" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 879 505 L 885 513 L 891 505" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="643" y="521" width="484" height="66" rx="12" fill="#E8F5F2" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="643" y="521" width="6" height="66" rx="3" fill="#087E7B" stroke="none" stroke-width="1"/>
+<circle cx="671" cy="554" r="17" fill="#087E7B"/>
+<text x="671" y="561" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">4</text>
+<text x="702" y="562" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Create spreadsheet</text>
+<line x1="885" y1="588" x2="885" y2="602" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 879 596 L 885 604 L 891 596" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="643" y="612" width="484" height="66" rx="12" fill="#E8F5F2" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="643" y="612" width="6" height="66" rx="3" fill="#087E7B" stroke="none" stroke-width="1"/>
+<circle cx="671" cy="645" r="17" fill="#087E7B"/>
+<text x="671" y="652" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">5</text>
+<text x="702" y="653" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Store PDF and output</text>
+<line x1="885" y1="679" x2="885" y2="693" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 879 687 L 885 695 L 891 687" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="643" y="703" width="484" height="66" rx="12" fill="#E8F5F2" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="643" y="703" width="6" height="66" rx="3" fill="#087E7B" stroke="none" stroke-width="1"/>
+<circle cx="671" cy="736" r="17" fill="#087E7B"/>
+<text x="671" y="743" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">6</text>
+<text x="702" y="744" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Reply in original thread</text>
+<line x1="1127" y1="372" x2="1170" y2="372" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<line x1="1170" y1="372" x2="1170" y2="949" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<line x1="235" y1="949" x2="1170" y2="949" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<line x1="235" y1="949" x2="235" y2="982" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 229 976 L 235 984 L 241 976" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="615" y1="949" x2="615" y2="982" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 609 976 L 615 984 L 621 976" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="995" y1="949" x2="995" y2="982" stroke="#087E7B" stroke-width="2" stroke-linecap="round"/>
+<path d="M 989 976 L 995 984 L 1001 976" fill="none" stroke="#087E7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56" y="970" fill="#536A79" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start">EXCEPTIONS</text>
+<rect x="55" y="994" width="360" height="126" rx="14" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="55" y="994" width="360" height="8" rx="4" fill="#315F78" stroke="none" stroke-width="1"/>
+<text x="77" y="1040" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="start">Document rejected</text>
+<text x="77" y="1080" fill="#315F78" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Rejection reply</text>
+<rect x="435" y="994" width="360" height="126" rx="14" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="435" y="994" width="360" height="8" rx="4" fill="#98631E" stroke="none" stroke-width="1"/>
+<text x="457" y="1040" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="start">Processing failure</text>
+<text x="457" y="1080" fill="#98631E" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Retry / operations alert</text>
+<rect x="815" y="994" width="360" height="126" rx="14" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="815" y="994" width="360" height="8" rx="4" fill="#A34C43" stroke="none" stroke-width="1"/>
+<text x="837" y="1040" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="start">Warning-marked output</text>
+<text x="837" y="1080" fill="#A34C43" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Review needed</text>
+<text x="56" y="1170" fill="#536A79" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">Working through my own account; organizational inbox rollout pending.</text>
+</svg>

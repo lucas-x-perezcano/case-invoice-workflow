@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="735" viewBox="0 0 1200 735" role="img" aria-label="Conceptual synthetic inspection spreadsheet output">
+<title>Conceptual synthetic inspection spreadsheet output</title>
+<rect width="1200" height="735" fill="#F7F9FA"/>
+<rect x="0" y="0" width="1200" height="12" rx="0" fill="#087E7B" stroke="none" stroke-width="1"/>
+<text x="56" y="69" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="start">Conceptual output</text>
+<text x="56" y="110" fill="#536A79" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" text-anchor="start">The reported values stay visible, including a quantity warning</text>
+<rect x="1088" y="38" width="58" height="58" rx="16" fill="#E8F5F2" stroke="none" stroke-width="1"/>
+<text x="1117" y="75" fill="#087E7B" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="middle">04</text>
+<rect x="55" y="150" width="1090" height="485" rx="18" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="1"/>
+<rect x="76" y="171" width="287" height="40" rx="10" fill="#E8F5F2" stroke="none" stroke-width="1"/>
+<text x="94" y="198" fill="#087E7B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="start">SYNTHETIC DATA</text>
+<rect x="76" y="239" width="1040" height="69" rx="8" fill="#ECF3F7" stroke="none" stroke-width="1"/>
+<text x="90" y="267" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">Code</text>
+<text x="220" y="267" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">Reported</text>
+<text x="220" y="291" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">quantity</text>
+<text x="380" y="267" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">Unit</text>
+<text x="380" y="291" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">price</text>
+<text x="525" y="267" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">Line</text>
+<text x="525" y="291" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">amount</text>
+<text x="680" y="267" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">Catalog</text>
+<text x="680" y="291" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">result</text>
+<text x="900" y="267" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">Check</text>
+<rect x="76" y="308" width="1040" height="133" rx="0" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="1"/>
+<text x="90" y="361" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">000123</text>
+<text x="220" y="361" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">2</text>
+<text x="380" y="361" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">50</text>
+<text x="525" y="361" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">100</text>
+<text x="680" y="361" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">Demo Product A</text>
+<text x="900" y="361" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">No arithmetic</text>
+<text x="900" y="388" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">warning</text>
+<rect x="76" y="441" width="1040" height="133" rx="0" fill="#FFF5E8" stroke="#D9E3E8" stroke-width="1"/>
+<text x="90" y="494" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">000456</text>
+<text x="220" y="494" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">3</text>
+<text x="380" y="494" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">80</text>
+<text x="525" y="494" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">160</text>
+<text x="680" y="494" fill="#193344" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="start">Demo Product B</text>
+<text x="900" y="494" fill="#A34C43" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">Warning: quantity</text>
+<text x="900" y="521" fill="#A34C43" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">conflicts with price</text>
+<text x="900" y="548" fill="#A34C43" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start">and amount</text>
+<text x="76" y="603" fill="#98631E" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start">Reported values are not silently corrected.</text>
+<text x="55" y="688" fill="#536A79" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="start">This illustration does not reproduce the private form or a real screenshot.</text>
+</svg>
