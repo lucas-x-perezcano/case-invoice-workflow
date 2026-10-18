@@ -2,6 +2,9 @@
 
 Redesigning a recurring invoice process around interpretation, defined checks, and human review.
 
+**Lucas Perezcano**<br>
+Industrial Engineering | Tecnológico de Monterrey
+
 ## The Problem
 
 One employee handled incoming invoices through a fully manual sequence: open the email, download the document, read and organize its information, consult a master product catalog, prepare a standardized inspection spreadsheet, store the documents, and reply or follow up. This was a recurring sequence of decisions across several places, not just a data entry task.
@@ -52,6 +55,14 @@ The example invoice and spreadsheet shown here use invented names, codes, and am
 ## High-Level Architecture
 
 A processing service reads PDF text, asks a language model for structured fields, applies catalog and arithmetic checks, and prepares the spreadsheet. A separate email workflow selects eligible messages, calls that service, stores the source and output, and routes replies or alerts according to the result.
+
+### Further Reading
+
+For a deeper look at the implementation and its limitations:
+
+- [System Architecture](docs/architecture.md)
+- [Design Decisions](docs/design-decisions.md)
+- [Validation and Current Status](docs/validation.md)
 
 ## Validation
 
